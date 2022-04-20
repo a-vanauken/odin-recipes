@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    color: black;
+    font-style: sans-serif;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid whitesmoke;
+    display: inline block center;
+    padding: 10px;
+}
+
+
+
